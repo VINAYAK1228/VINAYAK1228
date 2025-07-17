@@ -1,8 +1,8 @@
 #  Hi there 👋
-#    Motivated Second-year Engineering Student | Seeking Opportunities to Learn and Grow |
+#    Motivated Final year Engineering Student | Seeking Opportunities to Learn and Grow |
 #   I am passionate about pursuing a career in my field and gaining hands-on experience to complement my academic knowledge.
 #  Skills
-# HTML , CSS , Javascript( currently larning ) , java , figma.
+# JAVA , SQL , Python , Machine learning , Javascript
 <!--
 **VINAYAK1228/VINAYAK1228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
